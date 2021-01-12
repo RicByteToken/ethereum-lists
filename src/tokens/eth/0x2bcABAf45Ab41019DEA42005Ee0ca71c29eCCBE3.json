@@ -1,0 +1,37 @@
+{
+"symbol": "RBYTE",
+
+"name": "RicByte",
+
+"type": "ERC20",
+
+"address": "0x2bcABAf45Ab41019DEA42005Ee0ca71c29eCCBE3",
+"ens_address": "0x2bcABAf45Ab41019DEA42005Ee0ca71c29eCCBE3",
+"decimals": 18,
+"website": "ricbyte.cards",
+"logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "support@rbyte.net",
+    "url": "ricbyte.cards/support"
+},
+"social": {
+    "blog": "ricbyte.cards",
+    "chat": "ricbyte.cards",
+    "facebook": "ricbyte.cards",
+    "forum": "ricbyte.cards",
+    "github": "RicByteToken",
+    "gitter": "ricbyte.cards",
+    "instagram": "RicByte5",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+}
+}
